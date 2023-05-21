@@ -1,8 +1,6 @@
 {
   "mainPageTitle": "Application Home",
-  "home": {
     "pageTitle": "Home",
     "title": "Favourites",
     "favourites" : "Manage my favourites",
-  }
 }
