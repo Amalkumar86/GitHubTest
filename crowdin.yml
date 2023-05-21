@@ -1,3 +1,3 @@
 files:
   - source: common.json
-    translation: '%two_letters_code%.json'
+    translation: /de/%two_letters_code%/common.json
